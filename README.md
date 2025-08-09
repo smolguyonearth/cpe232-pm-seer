@@ -1,8 +1,5 @@
-# HOW TO ?
+## PMseer
 
-To you, guys
+This project was created as a part of CPE232: DATA MODELS. It's about finding the most significant factors and predicting PM2.5
 
-just extract the zip and run the code in order that were set for you
-
-love,
-smolguyonearth
+[HERE](https://drive.google.com/drive/folders/1aHjUd660E698-SmJV0QCP1eFcXdryHBY?usp=sharing) is the report
